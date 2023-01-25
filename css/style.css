@@ -1,0 +1,52 @@
+body{
+    background-color: hsl(195deg 81% 16%);
+    font-family:Arial, Helvetica, sans-serif
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    margin-bottom: 60px;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#list{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    max-width: 900px;
+    margin: auto;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: hsl(195deg 81% 39%);
+    line-height: 100px;
+    text-align: center;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.box3{
+    
+    background-color: hsl(164deg 89% 44%);
+    
+}
+
+.box5 {
+    
+    background-color: hsl(42deg 100% 70%);
+    
+}
+
+.box3_5 {
+   
+    background-color: hsl(346deg 85% 61%);
+    
+}
